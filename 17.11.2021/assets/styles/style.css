@@ -305,7 +305,7 @@ nav .navbar ul li.active{
 #myWorks{
 	width: 100%;
 	min-height: 880px;
-	padding: 100px 0;
+	padding-top: 100px;
 }
 
 #myWorks .myWorks__container{
