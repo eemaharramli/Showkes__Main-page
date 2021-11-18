@@ -143,7 +143,6 @@ nav .navbar ul li.active{
 }
 
 #about .about__header{
-    display: flex;
     height: 86px;
     display: flex;
     flex-direction: column;
